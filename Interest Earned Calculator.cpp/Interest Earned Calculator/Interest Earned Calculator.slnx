@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Interest Earned Calculator/Interest Earned Calculator.vcxproj" Id="b45669f2-6a98-47c1-b094-f48c2a617ed1" />
+</Solution>
